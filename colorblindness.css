@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+a {
+    color:black;
+}
+
+div {
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
+    margin:20px;
+    padding:5px;
+    background-color: rgb(201, 201, 201);
+}
